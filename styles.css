@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(117, 184, 241);
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aquamarine;
+}   
+
+ol, ul {
+    list-style-type: square;
+}
